@@ -1,0 +1,22 @@
+# Legacy URL redirects from the previous WordPress site (preserve SEO authority)
+# Services
+/installation-work-rewires/ /installation-rewires 301
+/eicrs-testing-and-inspection/ /eicr-testing 301
+/maintenance/ /electrical-maintenance 301
+# Location pages (folded into service-area coverage)
+/poole/ / 301
+/bournemouth/ /services 301
+/christchurch/ /services 301
+/wimborne/ /services 301
+/ferndown/ /services 301
+/all-locations/ /services 301
+# Standard pages
+/about-us/ /about 301
+/contact-us/ /contact 301
+/gallery/ /projects 301
+/terms-conditions/ /terms 301
+/privacy-policy/ /privacy 301
+# Blog posts
+/questions-to-ask-electrician-in-poole/ /blogs/questions-to-ask-electrician-poole 301
+/consumer-unit-upgrade-warning-signs/ /blogs/consumer-unit-warning-signs 301
+/eicr-guide-homeowners-landlords-dorset/ /blogs 301
